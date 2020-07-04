@@ -8,7 +8,7 @@ use Symfony\Component\Routing\Annotation\Route;
 class DefaultController extends AbstractController
 {
     /**
-     * @Route("/toto", name="default")
+     * @Route("/tata", name="default-tt")
      */
     public function index()
     {
